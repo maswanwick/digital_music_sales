@@ -6,7 +6,8 @@ As consumer music consumption has shifted from discs to digital, what other indu
 
 #### Repository Layout
 This repository is organized in the following manner
-
+| Item | Description |
+|-|-|
 | `analysis/` | All source code used to build the final deliverable.  This  is where the polished product will go.|
 | `presentation/` | All files used in the building of the presentation.  Images, slides, notes, etc. |
 | `research/` | Files, code snippets, CSVs, etc. used in preparing the analysis.  Think of this as the sandbox/holding tank for experimental code or research that didn't pan out. |
