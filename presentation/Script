@@ -1,0 +1,11 @@
+Looking at the Apple revenue vs digital and physical revenue.
+  As Apple revenue increases, physical revenue goes down. -0.83 correlation (high)
+  As Apple revenue increases, digital revenue goes up. 0.93 correlation (very high)
+  Apple products made digital music more accessible. Apple stopped adding a CD slot in their laptops in 2012.
+  I chose to only look at Apple instead of all tech companies. I think if I looked at Microsoft the data would be similar. 
+Looking at the % Radio listeners vs digital and physical revenue.
+  As Digital revenue decreases, listeners goes down. -0.95 correlation (very high)
+  As Physical revenue incrases, listeners goes up. 0.56 correlation (moderate)
+  I find this interesting because AM/FM radio is free, as long as you have a device that can use it. My thoughts are paying
+    for music allows for no or fewer ads as well as more music to listen to on demand. A note to make, radio also has more
+    content than just music, like sports or news. So it might be that the decline in radio listeners is only in music.
