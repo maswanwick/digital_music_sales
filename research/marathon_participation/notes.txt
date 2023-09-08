@@ -1,0 +1,3 @@
+https://www.marathonguide.com/results/
+
+https://www.marathonguide.com/results/browse.cfm?Year={year}
