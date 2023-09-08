@@ -13,7 +13,7 @@ import numpy as np
 
 
 # Store filepath in a variable
-tran = "analysis/data_input/revenue_by_format.csv"
+tran = "C:/Users/charl/OneDrive/Desktop/team_project/revenue_by_format.csv"
 
 
 # In[138]:
@@ -95,7 +95,7 @@ tran_df.plot(x="Year", y=["Digital", "Physical","Ipod","PhoneSpeed"])
 # In[150]:
 
 
-plt.savefig("analysis/graph_output/phys_dig_ipod_speed.png", bbox_inches="tight")
+plt.savefig("phys_dig_ipod_speed.png", bbox_inches="tight")
 
 
 # In[151]:
@@ -119,7 +119,7 @@ tran_df.plot(x="Year", y=["Digital", "Physical"])
 # In[155]:
 
 
-plt.savefig("analysis/graph_output/phys_dig.png", bbox_inches="tight")
+plt.savefig("phys_dig.png", bbox_inches="tight")
 
 
 # In[ ]:
